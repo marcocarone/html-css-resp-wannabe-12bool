@@ -57,17 +57,15 @@ body {
 }
 
 @media screen and (max-width: 992px) and (min-width: 768px) {
+  .h2-md-38px {
+    font-size: 38px;
+  }
 
-    .h2-md-38px {
-      font-size: 38px;
-    }
+  .h3-md-20px {
+    font-size: 20px;
+  }
 
-    .h3-md-20px {
-      font-size: 20px;
-    }
-
-    .p-md-18px {
-      font-size: 18px;
-    }
-
+  .p-md-18px {
+    font-size: 18px;
+  }
 }
