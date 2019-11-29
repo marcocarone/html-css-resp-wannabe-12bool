@@ -25,7 +25,7 @@ body {
 
 .icon-bg {
   background-color: rgb(52, 176, 159);
-  color: #ffffff;
+  color: rgb(255, 255, 255);
   border-radius: 50%;
   padding: 20px;
 }
@@ -38,15 +38,20 @@ body {
   margin-top: 40px;
 }
 
+.text-color-white {
+  color: rgb(255, 255, 255);
+}
+
 @media screen and (max-width:768px) {
   .h2-40px {
     font-size: 40px;
   }
-.h3-23px {
-  font-size: 23px;
 
-}
-.p-20px {
-  font-size: 20px;
-}
+  .h3-23px {
+    font-size: 23px;
+  }
+
+  .p-20px {
+    font-size: 20px;
+  }
 }
